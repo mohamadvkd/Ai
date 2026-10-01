@@ -3,7 +3,7 @@
 
     <application
         android:label="AI Local"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@drawable/ic_launcher"
         android:theme="@style/NormalTheme"
         android:largeHeap="true"
         android:hardwareAccelerated="true"
